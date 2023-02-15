@@ -17,6 +17,7 @@ body {
   background-color: blue;
   transform-origin: top;
   transform: scale(2);
+  margin:0 auto;
  }
 
  
