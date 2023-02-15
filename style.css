@@ -8,15 +8,19 @@
 
 
 body {
-    background-image: url('assets/front-card.jpg');
+    background-color: blueviolet;
 }
 /* the main container */
 
-@media screen and (min-width: 800px) {
-  .front-side,
-  .back-side {
-    width: 70%;
-    height:max-content;
+@media screen and (max-width: 800px) {
+ body{
+  background-color: blue;
+  transform: scale(1.7);
+  /* transform-origin: top left; */
+
+ }
+
+ 
   }
 
 
