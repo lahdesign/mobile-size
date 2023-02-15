@@ -15,7 +15,7 @@ body {
 @media screen and (max-width: 1200px) {
  body{
   background-color: blue;
-  transform: scale(1.7);
+  transform: scale(2);
   transform-origin: top left;
 
  }
