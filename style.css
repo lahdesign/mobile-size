@@ -16,7 +16,7 @@ body {
  body{
   background-color: blue;
   transform: scale(1.7);
-  /* transform-origin: top left; */
+  transform-origin: top left;
 
  }
 
