@@ -12,15 +12,15 @@ body {
 }
 /* the main container */
 
+/* a responsive grid for mobile */
+/* this code will be used when the screen size is 1200 pixels or less */
 @media screen and (max-width: 1200px) {
  body{
-  background-color: blue;
   transform-origin: top;
-  transform: scale(1.5);
+  transform: scale(.150);
   margin:0 auto;
  }
 
- 
   }
 
 
